@@ -1,0 +1,17 @@
+Company,Job,Degree,Salary_more_than_100k
+Google,Sales Executive,Bachelors,0
+Google,Sales Executive,Masters,0
+Google,Business Manager,Bachelors,1
+Google,Business Manager,Masters,1
+Google,Computer Programmer,Bachelors,0
+Google,Computer Programmer,Masters,1
+Amazone,Sales Executive,Masters,0
+Amazone,Computer Programmer,Bachelors,0
+Amazone,Business Manager,Bachelors,0
+Amazone,Business Manager,Masters,1
+Facebook,Sales Executive,Bachelors,1
+Facebook,Sales Executive,Masters,1
+Facebook,Business Manager,Bachelors,1
+Facebook,Business Manager,Masters,1
+Facebook,Computer Programmer,Bachelors,1
+Facebook,Computer Programmer,Masters,1
